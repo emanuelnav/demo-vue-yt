@@ -1,5 +1,7 @@
 # demo-vue-yt
 
+This is a demo for a Youtube api integration into a Vue.js project.
+
 ## Project setup
 ```
 npm install
